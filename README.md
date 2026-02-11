@@ -30,7 +30,7 @@ This project showcases a complete user authentication system, admin privileges, 
 ## 📸 Screenshots
 
 - Login page for user authentication  
-- Signup page with real-time validation  
+- Signup page with real-time validation.
 - Main chat window (text & image messaging)  
 - Profile page with **Dark Mode**  
 
